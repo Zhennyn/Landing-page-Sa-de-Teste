@@ -51,6 +51,14 @@ h3 {
     text-decoration: none;
 }
 
+#inscrever{
+    position: relative;
+    left: 600px;
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;
+}
+
 img {
     width: 150px;
     height: 150px;
